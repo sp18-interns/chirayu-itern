@@ -1,7 +1,7 @@
 # chirayu-intern
 
 # Date 3-September-2022
-- 
+
 ## First Half
 - [Started with Amazon EC2 Module 2](https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitioner-essentials-all-modules)
 
