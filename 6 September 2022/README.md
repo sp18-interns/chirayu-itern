@@ -1,6 +1,6 @@
 # chirayu-intern
 
-# Date 06-septembe-2022
+# Date 06-september-2022
 
 ## First Half
 
