@@ -22,3 +22,5 @@
 - Date [22 september 2022](https://github.com/sp18-interns/chirayu-itern/tree/main/September%202022/22%20september%202022)
 - Date [23 september 2022](https://github.com/sp18-interns/chirayu-itern/tree/main/September%202022/22%20september%202022)
 - Date [26 september 2022](https://github.com/sp18-interns/chirayu-itern/tree/main/September%202022/26%20September%202022)
+- Date [3 october 2022](https://github.com/sp18-interns/chirayu-itern/tree/main/October%202022/3%20October%202022)
+- Date [4 october 2022](https://github.com/sp18-interns/chirayu-itern/tree/main/October%202022/4%20October%202022) 
