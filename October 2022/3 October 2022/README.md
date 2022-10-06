@@ -21,7 +21,31 @@
 - https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/learn/lecture/27467906?start=240#overview
 ### Assignment
 
-- NONE
+1. Script to install basic tool for developers
+     sublime
+     slack
+     chrome
+     vscode
+     intellij java
+     intellij pycharm
+     docker
+     dbeaver
+     git
+2. Install ngix and basic config
+   centos
+   ubuntu
+
+3. Enable https on any machine
+   openssl
+   certbot
+   custom certificates
+
+4. Apache http serive
+
+5. Ngrok setup
+
+6. port forwaring for any service
+- Assignments to be submitted at 1 Nov 2022
 ### Doubts
 
 - NONE
@@ -48,7 +72,7 @@
 
 ### Assignment
 
-- NONE 
+- NONE
 
 ### Doubts
 
