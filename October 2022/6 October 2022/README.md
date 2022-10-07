@@ -52,7 +52,7 @@
 ### Doubts
 
 - Open LDAP 
-
+- Red Hat Linux Distribution
 
 ### Links Read
 - NONE
