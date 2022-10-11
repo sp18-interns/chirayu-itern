@@ -27,3 +27,4 @@
 - Date [6 october 2022](https://github.com/sp18-interns/chirayu-itern/tree/main/October%202022/6%20October%202022)
 - Date [7 october 2022](https://github.com/sp18-interns/chirayu-itern/tree/main/October%202022/7%20October%202022)
 - Date [10 october 2022](https://github.com/sp18-interns/chirayu-itern/tree/main/October%202022/10%20October%202022)
+- Date [11 october 2022](https://github.com/sp18-interns/chirayu-itern/tree/main/October%202022/11%20October%202022)
