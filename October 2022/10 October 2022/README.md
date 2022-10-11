@@ -6,7 +6,7 @@
 
 ## First Half
 
- [Resumed with Administration part of Udmey](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/learn/lecture/9165636?start=270#content)
+ [Resumed with Udemy Administration part of Udmey](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/learn/lecture/9165636?start=270#content)
 - Topics Covered :-
 - 1) Talking to Users 
 - 2) Linux Account Authentication 

@@ -6,7 +6,7 @@
 
 ## First Half
 
- [Resumed with Administration part of Udmey](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/learn/lecture/9165636?start=270#content)
+ [Resumed with Administration part of Udemy](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/learn/lecture/9165636?start=270#content)
 - Topics Covered :-
 - 1) sed Command
 - 2) user account management
