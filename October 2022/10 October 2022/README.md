@@ -41,18 +41,18 @@
    certbot
    custom certificates
 
-4. Apache http serive
+4. Apache http service
 
 5. Ngrok setup
 
 6. port forwaring for any service
-- Assignments to be submitted at 1 Nov 2022
+- Assignments to be submitted at 1 November 2022
 
 ### Doubts
 
 - Open LDAP (resolved about how does open ldap work in corporate life)
 - Red Hat Linux Distribution (esolved about the Red Hat Linux Distribution subscrtiption) 
-- putty (resolved about how oftenly is putty used) 
+- putty (resolved about how often is putty used) 
 - BSD format (resolved about what is BSD in detail ) 
 
 ### Links Read
