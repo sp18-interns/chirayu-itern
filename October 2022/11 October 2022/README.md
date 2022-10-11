@@ -47,7 +47,7 @@
 5. Ngrok setup
 
 6. port forwaring for any service
-- Assignments to be submitted at 1 November 2022
+- Assignments to be submitted on 1 November 2022
 
 ### Doubts
 
