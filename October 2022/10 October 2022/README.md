@@ -17,7 +17,7 @@
 - 7) systemctl Command
 - 8) Control system with systemctl commad
 - Issue of brigedadapter persists 
-- 
+
 
 
 
@@ -50,10 +50,11 @@
 
 ### Doubts
 
-- Open LDAP 
-- Red Hat Linux Distribution
-- putty 
-- BSD format
+- Open LDAP (resolved about how does open ldap work in corporate life)
+- Red Hat Linux Distribution (esolved about the Red Hat Linux Distribution subscrtiption) 
+- putty (resolved about how oftenly is putty used) 
+- BSD format (resolved about what is BSD in detail ) 
+
 ### Links Read
 
 - https://www.freecodecamp.org/news/the-nginx-handbook/
