@@ -2,15 +2,14 @@
 
 
 
-# Date 20-October-2022
+# Date 21-October-2022
 
 ## First Half
 
-- Successfully created an Application Load Balancer 
-- Migrated Domain to DNS to Route 53 
-
+- [Started reading more about apache2](https://medium.com/@me.sanjeev3d/https-medium-com-me-sanjeev3d-apache-webserver-a0d7f8167063#:~:text=Developed%20and%20maintained%20by%20Apache,by%20using%20extensions%20and%20modules)
+- Researched more about apache2 http
 ### Assignment
-  1. Script to install basic tool for developers
+  1. Script to install basic tool for developers - HALF DONE
      sublime
      slack
      chrome
@@ -41,14 +40,14 @@
 
 - NONE
 ### Links Read
-- NONE
+- https://medium.com/@me.sanjeev3d/https-medium-com-me-sanjeev3d-apache-webserver-a0d7f8167063#:~:text=Developed%20and%20maintained%20by%20Apache,by%20using%20extensions%20and%20modules
+
 ### Videos
  
 - NONE
 ## Second Half
-  - [Completed the new task assigned](https://docs.google.com/document/d/1sbYvuX8JLVEcvBvPuRsGDeO7pTBkeXHbmp8NklwM7-Q/edit#heading=h.dyfqiq394zad) 
-- Completed SSL Section AWS 
-- Route 53 AWS
+
+- Completed the basic script of the developer tools 
 ### Videos
       
 - NONE
@@ -61,4 +60,4 @@
 - NONE 
 ### Links Read
 
-- NONE                     
+- NONE 
