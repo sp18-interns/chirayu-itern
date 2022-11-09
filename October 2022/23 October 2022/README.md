@@ -2,15 +2,14 @@
 
 
 
-# Date 21-October-2022
+# Date 23-October-2022
 
 ## First Half
 
-- Started with CICD pipelines
-- Made a CICD pipeline for the AWS instance created and completed 
+- Had some issues with the Wordpress Website and got it fixed. The issue was About the mysql database
 
 ### Assignment
-  1. Script to install basic tool for developers - HALF DONE
+  1. Script to install basic tool for developers - DONE 
      sublime
      slack
      chrome
@@ -42,18 +41,19 @@
 - NONE
 ### Links Read
 
-- NONE
+
 ### Videos
  
 - NONE
 ## Second Half
 
-- Resumed writing shell script for basic developer tools 
-- Created AWS instance
+- Attached Certbot to the Wordpress Website 
+- Finished writing the script but have to add an exit option and keep the script running in loop 
 
 ### Videos
-      
-- NONE
+
+- NONE      
+
 ### Assignment
 
 - NONE 
@@ -63,4 +63,5 @@
 - NONE 
 ### Links Read
 
-- NONE 
+- https://www.geeksforgeeks.org/bash-scripting-while-loop/#:~:text=A%20while%20loop%20is%20a,false%20before%20evaluating%20to%20true.
+- https://www.shellscript.sh/loops.html

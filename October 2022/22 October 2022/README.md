@@ -2,15 +2,15 @@
 
 
 
-# Date 19-October-2022
+# Date 22-October-2022
 
 ## First Half
 
-- Successfully created an Application Load Balancer 
-- Migrated Domain to DNS to Route 53 
+- Completed with the LNMP installation for the apache http service a
+- Hosted a Wordpress website through Apache 
 
 ### Assignment
-  1. Script to install basic tool for developers
+  1. Script to install basic tool for developers - DONE 
      sublime
      slack
      chrome
@@ -41,17 +41,18 @@
 
 - NONE
 ### Links Read
-- NONE
+- https://geekrewind.com/how-to-install-wordpress-on-ubuntu-linux-with-apache/
 ### Videos
  
 - NONE
 ## Second Half
-  - [Completed the new task assigned](https://docs.google.com/document/d/1sbYvuX8JLVEcvBvPuRsGDeO7pTBkeXHbmp8NklwM7-Q/edit#heading=h.dyfqiq394zad) 
-- Completed SSL Section AWS 
-- Route 53 AWS
+
+- Read about Certbot and watched Open SSL
 ### Videos
       
-- NONE
+- https://www.youtube.com/watch?v=X3Pr5VATOyA
+- https://www.youtube.com/watch?v=xNk8fZCuCMU
+
 ### Assignment
 
 - NONE 
@@ -61,4 +62,4 @@
 - NONE 
 ### Links Read
 
-- NONE                     
+- https://www.linode.com/docs/guides/enabling-https-using-certbot-with-apache-on-ubuntu

@@ -2,15 +2,15 @@
 
 
 
-# Date 21-October-2022
+# Date 24-October-2022
 
 ## First Half
 
-- Started with CICD pipelines
-- Made a CICD pipeline for the AWS instance created and completed 
+- Created another instance for openSSL assignment
+- Fininshed with the Shell Script and applied while,do and done loop 
 
 ### Assignment
-  1. Script to install basic tool for developers - HALF DONE
+  1. Script to install basic tool for developers - DONE 
      sublime
      slack
      chrome
@@ -43,17 +43,18 @@
 ### Links Read
 
 - NONE
+
 ### Videos
  
 - NONE
 ## Second Half
 
-- Resumed writing shell script for basic developer tools 
-- Created AWS instance
+- NONE
 
 ### Videos
-      
-- NONE
+
+- NONE      
+
 ### Assignment
 
 - NONE 
@@ -63,4 +64,5 @@
 - NONE 
 ### Links Read
 
-- NONE 
+- https://www.geeksforgeeks.org/bash-scripting-while-loop/#:~:text=A%20while%20loop%20is%20a,false%20before%20evaluating%20to%20true.
+- https://www.shellscript.sh/loops.html
